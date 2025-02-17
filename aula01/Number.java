@@ -4,5 +4,6 @@ public class Number {
         System.out.println(15 - 5);
         System.out.println(5  * 2);
         System.out.println(20 / 2);
+        System.out.println("Hello World");
     }
 }
