@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Teste1 {
-    public static void main0(String[] args) {
+public class Teste {
+    public static void main(String[] args) {
         Scanner a = new Scanner(System.in); // Declara que a variável 'a' pode receber valor através do nextInt()
         System.out.println("Insira um valor para A");
         int n1 = a.nextInt(); // Lê um valor para a variável 'a'
